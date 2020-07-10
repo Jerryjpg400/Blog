@@ -1,6 +1,6 @@
 ## Blog
 
-+ ZN
++ _ZN/_
 用中文写的博客
-+ En
++ _En/_
 Blogs written in English
